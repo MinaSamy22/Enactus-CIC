@@ -16,7 +16,7 @@
                          <?php  if (checkIsLogin()){  ?>
                         <li><a class="a2" href="logout.php">logout</a></li>
                         <?php } else { ?>
-                        <li><a class="a2" href="registar.php">registar</a></li>
+                        <li><a class="a2" href="registar.php">register</a></li>
                         <li><a class="a2" href="login.php">login</a></li>
                         <?php } ?>
 
